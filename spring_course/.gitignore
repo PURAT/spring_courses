@@ -1,0 +1,14 @@
+# Project exclude paths
+/target/
+*.class
+*.jar
+*.iml
+
+# IntelliJ
+.idea/
+/out/
+/src/META-INF/
+
+## File-based project format:
+*.ipr
+*.iws
